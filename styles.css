@@ -186,6 +186,7 @@ letter-spacing: 0.02em;
     background-repeat: no-repeat;
     padding-top: 192px;
     padding-bottom: 192px;
+    marging: 0 auto;
     background-color: #2E2F42;
 }
 .feacher-item{
