@@ -606,3 +606,22 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .backdrop.is-hidden .modal {
     transform: translate(-50%, -50%) scale(0.9);
 }
+.modal_tit{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+}
+.reg_sec{
+    margin-top: 72px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.text-input{
+    
+}
