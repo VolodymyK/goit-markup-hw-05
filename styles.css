@@ -622,6 +622,12 @@ color: #2E2F42;
     margin-right: auto;
     margin-left: auto;
 }
-.text-input{
-    
+.text_inp{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.01em;
+color: #8E8F99;
 }
